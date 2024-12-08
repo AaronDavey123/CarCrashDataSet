@@ -68,7 +68,7 @@ python data.py
 ```
 
 ## 🖼️ Sample Visualizations
-![CarCrashDataSet](Pictures/pic)
+![CarCrashDataSet](Pictures/pic.png)
 
 ## 🛡️ License
 This project is licensed under the MIT License - see the LICENSE file for details.
